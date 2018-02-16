@@ -1,0 +1,3 @@
+Nombre: david
+Edad: 19
+Color favorito: morado
